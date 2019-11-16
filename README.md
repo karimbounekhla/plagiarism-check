@@ -35,8 +35,6 @@ You will need Python 3.x and the following libraries and packages. Type commands
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
 Download all files into a folder. Ensure that all imported libraries in `app.py` and `helpers.py` are 
 installed on your machine or virtual environment.
 
