@@ -16,7 +16,11 @@ This tool supports 3 algorithms:
 ## Screenshots
 
 ![image1](image1.png)
+
+Lines Algorithm
 ![image2](image3.png)
+
+Substring Algorithm
 ![image3](image2.png)
 
 ## Getting Started
