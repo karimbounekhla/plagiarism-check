@@ -1,4 +1,4 @@
-# find-similarities
+# plagiarism-check
 
 Tool built in Python/Flask that takes in 2 text files (ascii-compatible) and returns the highlighted similarities.
 
